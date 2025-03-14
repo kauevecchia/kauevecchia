@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Olá Mundo! Meu nome é Kauê, tenho 17 anos, e sou estudante de programação, tenho o objetivo de trabalhar como desenvolvedor fullstack. Estou constantemente buscando novos desafios e aprendizados.</p>
+<p align="left">Olá Mundo! Meu nome é Kauê, tenho 18 anos, e sou estudante de programação, tenho o objetivo de trabalhar como desenvolvedor fullstack. Estou constantemente buscando novos desafios e aprendizados.</p>
 
 ###
 
